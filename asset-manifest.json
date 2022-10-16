@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/traveloka/static/css/main.dfe6fa49.css",
-    "main.js": "/traveloka/static/js/main.d07200c7.js",
-    "static/js/787.8a220983.chunk.js": "/traveloka/static/js/787.8a220983.chunk.js",
-    "static/media/flight.png": "/traveloka/static/media/flight.94900645ce4be1abcefe.png",
-    "static/media/calendar.svg": "/traveloka/static/media/calendar.3827d3b3066788444b682588b8d06c36.svg",
-    "static/media/logo.svg": "/traveloka/static/media/logo.c4ffce9e693aae83503aa41d6483538f.svg",
-    "static/media/baggage.svg": "/traveloka/static/media/baggage.5893d99a97d02fa9a41c18b09dca638d.svg",
-    "static/media/InFlight.svg": "/traveloka/static/media/InFlight.da88ac9445ef907d8846bd55988f6da0.svg",
-    "static/media/search.svg": "/traveloka/static/media/search.0b47c0982d6f5fd7a1554915c1f773b9.svg",
-    "index.html": "/traveloka/index.html",
-    "static/media/Vector.svg": "/traveloka/static/media/Vector.745d823e3f99a2a0c5c45779e695b3b4.svg",
-    "static/media/arrowRightFl.svg": "/traveloka/static/media/arrowRightFl.461a89a112fa15a6e5a7ece9958b3b34.svg",
-    "static/media/arrowLeftFl.svg": "/traveloka/static/media/arrowLeftFl.860d55c82c6e78eb0c8b44cd6bc1a2c8.svg",
-    "static/media/arrowRightBtn.svg": "/traveloka/static/media/arrowRightBtn.c0fa6c19b800d5b1ef7ee12a4ac3efd7.svg",
-    "main.dfe6fa49.css.map": "/traveloka/static/css/main.dfe6fa49.css.map",
-    "main.d07200c7.js.map": "/traveloka/static/js/main.d07200c7.js.map",
-    "787.8a220983.chunk.js.map": "/traveloka/static/js/787.8a220983.chunk.js.map"
+    "main.css": "/static/css/main.dfe6fa49.css",
+    "main.js": "/static/js/main.1598c845.js",
+    "static/js/787.8a220983.chunk.js": "/static/js/787.8a220983.chunk.js",
+    "static/media/flight.png": "/static/media/flight.94900645ce4be1abcefe.png",
+    "static/media/calendar.svg": "/static/media/calendar.3827d3b3066788444b682588b8d06c36.svg",
+    "static/media/logo.svg": "/static/media/logo.c4ffce9e693aae83503aa41d6483538f.svg",
+    "static/media/baggage.svg": "/static/media/baggage.5893d99a97d02fa9a41c18b09dca638d.svg",
+    "static/media/InFlight.svg": "/static/media/InFlight.da88ac9445ef907d8846bd55988f6da0.svg",
+    "static/media/search.svg": "/static/media/search.0b47c0982d6f5fd7a1554915c1f773b9.svg",
+    "index.html": "/index.html",
+    "static/media/Vector.svg": "/static/media/Vector.745d823e3f99a2a0c5c45779e695b3b4.svg",
+    "static/media/arrowRightFl.svg": "/static/media/arrowRightFl.461a89a112fa15a6e5a7ece9958b3b34.svg",
+    "static/media/arrowLeftFl.svg": "/static/media/arrowLeftFl.860d55c82c6e78eb0c8b44cd6bc1a2c8.svg",
+    "static/media/arrowRightBtn.svg": "/static/media/arrowRightBtn.c0fa6c19b800d5b1ef7ee12a4ac3efd7.svg",
+    "main.dfe6fa49.css.map": "/static/css/main.dfe6fa49.css.map",
+    "main.1598c845.js.map": "/static/js/main.1598c845.js.map",
+    "787.8a220983.chunk.js.map": "/static/js/787.8a220983.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfe6fa49.css",
-    "static/js/main.d07200c7.js"
+    "static/js/main.1598c845.js"
   ]
 }
