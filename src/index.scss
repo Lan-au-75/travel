@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply m-0 p-0 box-border;
+    }
+
+    input {
+        @apply outline-none;
+    }
+}
+
+@layer components {
+    .active {
+        @apply h-[30px] leading-5;
+    }
+
+    .headerHeight {
+        @apply h-[80px];
+    }
+
+    // Button
+    .btn {
+        @apply min-w-[82px] min-h-[33px]  rounded-xl px-[16px] py-[10px] text-white;
+    }
+
+    .icon + .title,
+    .title + .icon {
+        margin-left: 4px;
+    }
+}
